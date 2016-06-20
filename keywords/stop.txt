@@ -4,3 +4,10 @@ be quiet
 leave me alone
 quit
 cancel
+end
+nevermind
+never mind
+forget it
+whatever
+none
+quit
